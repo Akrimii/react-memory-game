@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Barlow');
+
+
+
+body{
+    background: linear-gradient(to bottom, #7AA499 0%, #90C1B4 31%, #7AA499 100%);
+}
+
+.hoverThis:hover {
+    cursor: pointer;
+}
+
+* {
+    font-family: 'Barlow';
+}
+
+.thisCard {
+    width: 17rem;
+    height: 14.5rem;
+    background-color: #72A0C1;
+    
+}
+
+strong {
+    font-size: 0.9rem;
+}
+
+.thisBadge {
+    background-color: #72A0C1;
+     color: #212529
+}
+
+h1{
+    font-weight: bold;
+}
